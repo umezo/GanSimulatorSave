@@ -1,0 +1,12 @@
+#Sun Jan 18 23:35:50 JST 2015
+omasearch=1
+gun_rireki=168,185,96,91,95,167,192,169,46,88,90,9,10,137,138
+hunterRank=12
+out=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+matome=0
+hakkutuall=0
+sex=2
+type=2
+villageRank=10
+ken_rireki=35,24,52,79,168,25,37,27,64,65,36,26,197,7,34
+table=100
